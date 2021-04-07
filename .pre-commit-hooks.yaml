@@ -2,5 +2,5 @@
     name: Check for Tabs
     description: This hook checks for tabs
     entry: check-tabs
-    language: python
+    language: python3
     types: [text]
