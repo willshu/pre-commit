@@ -1,3 +1,0 @@
-[console_scripts]
-check-tabs = pre_commit_hooks.check_tabs:main
-
