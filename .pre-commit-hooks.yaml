@@ -1,6 +1,6 @@
 -   id: check-tabs
     name: Check for Tabs
     description: This hook checks for tabs
-    entry: python3 check-tabs.py
+    entry: check-tabs
     language: python
     types: [text]
