@@ -1,6 +1,6 @@
 -   id: check-tabs
     name: Check for Tabs
     description: This hook checks for tabs
-    entry: python 3 pre-commit-hooks/check-tabs.py
+    entry: python3 check-tabs.py
     language: python
     types: [text]
